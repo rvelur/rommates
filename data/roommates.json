@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "nombre": "Mario Rodríguez",
+    "debe": 0,
+    "recibe": 0
+  },
+  {
+    "id": 2,
+    "nombre": "Marta Godoy",
+    "debe": 0,
+    "recibe": 0
+  },
+  {
+    "id": "28a4c6",
+    "nombre": "Rosel Schell",
+    "debe": 0,
+    "recibe": 0
+  },
+  {
+    "id": "78a078",
+    "nombre": "Montserrat Romero",
+    "debe": 0,
+    "recibe": 0
+  },
+  {
+    "id": "c4e0e1",
+    "nombre": "Jill Perez",
+    "debe": 0,
+    "recibe": 0
+  },
+  {
+    "id": "1c7ac6",
+    "nombre": "Oğuzhan Tunçeri",
+    "debe": 0,
+    "recibe": 0
+  }
+]
